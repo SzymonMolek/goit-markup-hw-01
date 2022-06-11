@@ -12,10 +12,15 @@ Projekt
 «A2» W katalogu głównym projektu znajduje się folder images z obrazami.
 «A3» W nazwach plików nie ma wielkich liter, spacji i transliteracji, a jedynie litery i słowa w języku angielskim.
 «A4» Kod źródłowy jest sformatowany za pomocą Prettier.
-«A5» Wszystkie obrazy i zawartość tekstowa są z układu.
+«A5» Wszystkie obrazy i zawartość tekstowa są z układu.-->
+
 «A6» Wszystkie zdjęcia są optymalizowane przy użyciu squoosh.
+
+
 «A7» Kod jest napisany zgodnie z tutorialem.
 Znaczniki HTML
+<!--
+
 «B1» Znaczniki HTML strony Studio są wpisywane w pliku index.html.
 «B2» Wykonane są znaczniki HTML wszystkich elementów układu.
 «B3» Tagi są używane zgodnie z ich znaczeniem semantycznym.
