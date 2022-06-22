@@ -2,8 +2,8 @@
 homework-01
 
 todo list:
-<!--
-•	Utwórz repozytorium goit-markup-hw-01.
+
+<!-- •	Utwórz repozytorium goit-markup-hw-01.
 •	Wykorzystaj tylko znaczniki HTML do wykonania zadania domowego #1, bez stylów CSS.
 •	Skonfiguruj GitHub Pages i dodaj link do aktywnej strony do nagłówka repozytorium GitHub.
 Kryteria akceptacji projektu przez mentora
@@ -12,15 +12,10 @@ Projekt
 «A2» W katalogu głównym projektu znajduje się folder images z obrazami.
 «A3» W nazwach plików nie ma wielkich liter, spacji i transliteracji, a jedynie litery i słowa w języku angielskim.
 «A4» Kod źródłowy jest sformatowany za pomocą Prettier.
-«A5» Wszystkie obrazy i zawartość tekstowa są z układu.-->
-
+«A5» Wszystkie obrazy i zawartość tekstowa są z układu.
 «A6» Wszystkie zdjęcia są optymalizowane przy użyciu squoosh.
-
-
 «A7» Kod jest napisany zgodnie z tutorialem.
 Znaczniki HTML
-<!--
-
 «B1» Znaczniki HTML strony Studio są wpisywane w pliku index.html.
 «B2» Wykonane są znaczniki HTML wszystkich elementów układu.
 «B3» Tagi są używane zgodnie z ich znaczeniem semantycznym.
@@ -36,6 +31,4 @@ Znaczniki HTML
 «B13» Tagi <img> mają atrybut alt, który jest wypełniony krótkim opisem tego, co jest pokazane na obrazku.
 «B14» Obrazy wyeksportowane z układu w formacie jpg.
 «B15» Grupy elementów tego samego typu są gromadzone na listach <ul>.
-«B16» Tag <address> został użyty tylko w stopce.
--->
-
+«B16» Tag <address> został użyty tylko w stopce. -->
